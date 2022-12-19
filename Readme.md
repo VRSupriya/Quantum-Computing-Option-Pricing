@@ -1,4 +1,4 @@
-Option Pricing uses qiskit platform. 
+Implemeted European and Basket Option Pricing using qiskit platform. 
 
 It uses the Yahoo finace stock data to test the code.
 
